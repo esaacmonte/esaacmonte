@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, I'm Esaac!
+
+- Atualmente, gerencio projetos de análise e engenharia de dados;
+- Estou estudando Python através da formação de engenharia de dados da Ada Tech em parceria com o Satander;
+- Também desenvolvendo meu TCC para o MBA em Data Science e Analytics da USP/Esalq;
+- No dia a dia, utilizo ferramentas como: ClickUp, Power BI, Qlik Sense, Pentaho e SQL;
+- Adepto às metedologias ágeis como o Scrum e Kanban.
 
 <!--
 **esaacmonte/esaacmonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
