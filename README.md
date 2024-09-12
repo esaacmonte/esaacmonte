@@ -1,7 +1,7 @@
 ## Hello, I'm Esaac!
 
 - Atualmente, gerencio projetos de análise e engenharia de dados;
-- Estou estudando Python através da formação de engenharia de dados da Ada Tech em parceria com o Satander;
+- Estou estudando Python através da formação de engenharia de dados da Ada Tech em parceria com o Santander;
 - Também desenvolvendo meu TCC para o MBA em Data Science e Analytics da USP/Esalq;
 - No dia a dia, utilizo ferramentas como: ClickUp, Power BI, Qlik Sense, Pentaho e SQL;
 - Adepto às metedologias ágeis como o Scrum e Kanban.
